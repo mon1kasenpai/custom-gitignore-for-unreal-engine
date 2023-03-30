@@ -48,6 +48,12 @@
 *.VC.db
 *.VC.opendb
 
+# FMod user specific files
+
+Ratcatcher/.cache
+Ratcatcher/.unsaved
+Ratcatcher/.user
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
