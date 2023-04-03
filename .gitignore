@@ -50,9 +50,9 @@
 
 # FMod user specific files
 
-*your FMod folder/.cache
-*your FMod folder/.unsaved
-*your FMod folder/.user
+/your FMod Folder*/.cache/*
+/your FMod Folder/.unsaved/*
+/your FMod FOlder here/.user/*
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -85,3 +85,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Ratcatcher/.cache/buildrecords/Desktop/Master.br
