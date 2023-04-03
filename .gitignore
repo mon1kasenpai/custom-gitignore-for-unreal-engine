@@ -5,7 +5,7 @@
 .vscode/
 
 #Rider user specific files
-.idea
+.idea/
 
 # Compiled Object files
 *.slo
@@ -50,9 +50,9 @@
 
 # FMod user specific files
 
-Ratcatcher/.cache
-Ratcatcher/.unsaved
-Ratcatcher/.user
+*your FMod folder/.cache
+*your FMod folder/.unsaved
+*your FMod folder/.user
 
 # Precompiled Assets
 SourceArt/**/*.png
