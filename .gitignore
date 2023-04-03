@@ -50,9 +50,9 @@
 
 # FMod user specific files
 
-/your FMod Folder*/.cache/*
+/your FMod Folder/.cache/*
 /your FMod Folder/.unsaved/*
-/your FMod FOlder here/.user/*
+/your FMod Folder/.user/*
 
 # Precompiled Assets
 SourceArt/**/*.png
